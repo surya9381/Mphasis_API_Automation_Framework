@@ -1,0 +1,8 @@
+[INFO ] 2025-02-21 23:25:58.163 [main] UserTests - ********** Creating user *************
+[INFO ] 2025-02-21 23:26:02.224 [main] UserTests - *********** user is created *************
+[INFO ] 2025-02-21 23:26:02.233 [main] UserTests - *********** Displaying user details *************
+[INFO ] 2025-02-21 23:26:03.858 [main] UserTests - ********** user is displayed *************
+[INFO ] 2025-02-21 23:26:03.874 [main] UserTests - ************ updating user  ****************
+[INFO ] 2025-02-21 23:26:05.489 [main] UserTests - ************** Successfully updated user data *****************
+[INFO ] 2025-02-21 23:26:07.139 [main] UserTests - ********** deleting user **********
+[INFO ] 2025-02-21 23:26:08.662 [main] UserTests - ********** user got deleted ***********

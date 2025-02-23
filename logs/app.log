@@ -1,0 +1,40 @@
+[INFO ] 2025-02-22 14:35:09.090 [main] UserTests - ********** Creating user *************
+[INFO ] 2025-02-22 14:35:12.909 [main] UserTests - *********** user is created *************
+[INFO ] 2025-02-22 14:35:12.920 [main] UserTests - *********** Displaying user details *************
+[INFO ] 2025-02-22 14:35:14.302 [main] UserTests - ********** user is displayed *************
+[INFO ] 2025-02-22 14:35:14.316 [main] UserTests - ************ updating user  ****************
+[INFO ] 2025-02-22 14:35:15.751 [main] UserTests - ************** Successfully updated user data *****************
+[INFO ] 2025-02-22 14:35:17.103 [main] UserTests - ********** deleting user **********
+[INFO ] 2025-02-22 14:35:18.546 [main] UserTests - ********** user got deleted ***********
+[INFO ] 2025-02-22 14:53:24.493 [main] UserTests - ********** Creating user *************
+[INFO ] 2025-02-22 14:53:26.207 [main] UserTests - *********** user is created *************
+[INFO ] 2025-02-22 14:53:26.210 [main] UserTests - *********** Displaying user details *************
+[INFO ] 2025-02-22 14:53:27.839 [main] UserTests - ********** user is displayed *************
+[INFO ] 2025-02-22 14:53:27.844 [main] UserTests - ************ updating user  ****************
+[INFO ] 2025-02-22 14:53:29.475 [main] UserTests - ************** Successfully updated user data *****************
+[INFO ] 2025-02-22 14:53:30.951 [main] UserTests - ********** deleting user **********
+[INFO ] 2025-02-22 14:53:32.546 [main] UserTests - ********** user got deleted ***********
+[INFO ] 2025-02-22 15:01:42.074 [main] UserTests - ********** Creating user *************
+[INFO ] 2025-02-22 15:01:43.653 [main] UserTests - *********** user is created *************
+[INFO ] 2025-02-22 15:01:43.656 [main] UserTests - *********** Displaying user details *************
+[INFO ] 2025-02-22 15:01:45.196 [main] UserTests - ********** user is displayed *************
+[INFO ] 2025-02-22 15:01:45.201 [main] UserTests - ************ updating user  ****************
+[INFO ] 2025-02-22 15:01:46.836 [main] UserTests - ************** Successfully updated user data *****************
+[INFO ] 2025-02-22 15:01:48.575 [main] UserTests - ********** deleting user **********
+[INFO ] 2025-02-22 15:01:50.053 [main] UserTests - ********** user got deleted ***********
+[INFO ] 2025-02-22 15:06:37.835 [main] UserTests - ********** Creating user *************
+[INFO ] 2025-02-22 15:06:39.490 [main] UserTests - *********** user is created *************
+[INFO ] 2025-02-22 15:06:39.491 [main] UserTests - *********** Displaying user details *************
+[INFO ] 2025-02-22 15:06:40.999 [main] UserTests - ********** user is displayed *************
+[INFO ] 2025-02-22 15:06:41.003 [main] UserTests - ************ updating user  ****************
+[INFO ] 2025-02-22 15:06:42.610 [main] UserTests - ************** Successfully updated user data *****************
+[INFO ] 2025-02-22 15:06:44.103 [main] UserTests - ********** deleting user **********
+[INFO ] 2025-02-22 15:06:45.633 [main] UserTests - ********** user got deleted ***********
+[INFO ] 2025-02-22 15:07:28.995 [main] UserTests - ********** Creating user *************
+[INFO ] 2025-02-22 15:07:30.726 [main] UserTests - *********** user is created *************
+[INFO ] 2025-02-22 15:07:30.733 [main] UserTests - *********** Displaying user details *************
+[INFO ] 2025-02-22 15:07:32.328 [main] UserTests - ********** user is displayed *************
+[INFO ] 2025-02-22 15:07:32.335 [main] UserTests - ************ updating user  ****************
+[INFO ] 2025-02-22 15:07:33.968 [main] UserTests - ************** Successfully updated user data *****************
+[INFO ] 2025-02-22 15:07:35.463 [main] UserTests - ********** deleting user **********
+[INFO ] 2025-02-22 15:07:37.038 [main] UserTests - ********** user got deleted ***********
